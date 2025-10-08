@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Elisa</h1>
 <h3 align="center">Master Student @ UC3M university working @ Computer Architecture research group</h3>
+<p align="center">
+
+</p>
 
 ## 🚀 Important proyects I'm currently working with 
 
@@ -34,5 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eutrilla2002&show_icons=true&locale=en" alt="eutrilla2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eutrilla2002&" alt="eutrilla2002" /></p>
 
