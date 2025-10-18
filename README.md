@@ -23,6 +23,19 @@
   </tr>
 </table>
 
+## ✍🏼 Educative resources i created 
+<table>
+  <tr>
+    <td>
+      <h4><a href="https://github.com/EUtrilla2002/bare_metal_esp32c3_proyects">🔧 Bare Metal proyects</a></h4>
+      <p>Group of examples i learned to do with ESP32C3</p>
+    </td>
+    <td>
+      <h4><a href="https://github.com/EUtrilla2002/creatino_examples">🧩 CREATINO examples</a></h4>
+      <p>Group of example codes for CREATino codes that don't fitted in the guide</p>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
 </p>
