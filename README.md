@@ -13,7 +13,7 @@
       <p> CREATOR driver in v.5.0 and v6.0: New services + CREATINO module</p>
     </td>
     <td>
-      <h4><a href="[https://github.com/EUtrilla2002/CreatinoMaker](https://github.com/creatorsim/creator-beta-creatino)">💻 CREATOR (+ CREATINO IMPLEMENTED)</a></h4>
+      <h4><a href="https://github.com/creatorsim/creator-beta-creatino">💻 CREATOR (+ CREATINO IMPLEMENTED)</a></h4>
       <p> Beta version of Arduino Module inside CREATOR (CREATINO)</p>
     </td>
   </tr>
