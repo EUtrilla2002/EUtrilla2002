@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Elisa</h1>
-<h3 align="center">Master Student @ UC3M university working @ Computer Architecture research group (ARCOS)</h3>
+<h3 align="center">Master  Computes Science engineer @ UC3M</h3>
 <p align="center">
 
 </p>
 
-## 🚀 Important proyects I'm currently working with 
+## 🚀 Important proyects I've worked in  @ Computer Architecture research group (ARCOS) @ UC3M
 <table>
   <tr>
     <td>
